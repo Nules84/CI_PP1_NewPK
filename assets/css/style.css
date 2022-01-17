@@ -1,18 +1,20 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald|Lato:300');
 
+
 :root {
-    --dark-sailor-blue: #172531;
+    --dark-sailor-blue: #FFFF;
     --sailor-blue: #203344;
     --blue: #2e4a62;
     --light-blue: #6993b8;
     --baby-blue: #9bb7d0;
+    --white: #FFFFFF;
 }
 
 /* override bootstrap styling for background and font and make page stretch at least 100vh to avoid whitespace below footer, 
 code taken from https://forum.freecodecamp.org/t/footer-white-space-below/191360/4 */
 body {
     background-color: var(--dark-sailor-blue);
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'oswald', sans-serif;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -22,9 +24,13 @@ body {
 main {
     flex: 1 0 auto;
 }
+main header{
+    flex: 1 0 auto;
+    color: var(--white);
+}
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'oswald', sans-serif;
 }
 
 /* header */
@@ -62,6 +68,7 @@ h1, h2, h3, h4, h5, h6 {
 main h1 {
     text-transform: uppercase;
     font-weight: bolder;
+    text-decoration-color: aliceblue;
 }
 
 /* news */
@@ -81,7 +88,7 @@ main h1 {
     z-index: 3;    
 }
 
-/* make background below text sink behind image and image container and possition so that edges are 
+/* make background below text sink behind image and image container and position so that edges are 
 never visible for news section */
 .news p{
     background-color: var(--blue);
@@ -93,13 +100,6 @@ never visible for news section */
 
 /* make background below text sink behind image and image container and possition so that edges are 
 never visible for meal deal section */
-.meal-deal p {
-    background-color: var(--blue);
-    color: var(--baby-blue);
-    padding: 5% 40% 5% 5%;
-    margin-right: -35%;
-    z-index: -1;
-}
 
 /* Footer */
 
@@ -120,7 +120,7 @@ footer{
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: var(---dark-sailor-blue);
+    color: var(--baby-blue);
 }
 
 /* about */
@@ -134,7 +134,7 @@ footer{
 
 .reviews {
     background-color: var(--light-blue);
-    color: var(--baby-blue);
+    color: var(--white);
 }
 
 .reviews p {
@@ -204,11 +204,6 @@ footer{
 .my-link-cont:hover {
     color: var(--sailor-blue-);
     text-decoration: none;
-}
-
-/* override bootstrap text color */
-#phoneHelp {
-    color: var(--dark-sailor-blue);
 }
 
 /* 404 page*/
