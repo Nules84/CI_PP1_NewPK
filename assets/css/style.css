@@ -2,7 +2,7 @@
 
 
 :root {
-    --dark-sailor-blue: #FFFF;
+    --dark-sailor-blue: #0e3a53;
     --sailor-blue: #203344;
     --blue: #2e4a62;
     --light-blue: #6993b8;
@@ -98,8 +98,15 @@ never visible for news section */
     z-index: -1;
 }
 
-/* make background below text sink behind image and image container and possition so that edges are 
+/* make background below text behind image and image container and possition so that edges are 
 never visible for meal deal section */
+.meal-deal p {
+    background-color: var(--blue);
+    color: var(--baby-blue);
+    padding: 5% 5% 5% 40%;
+    margin-right: -35%;
+    z-index: -1;
+}
 
 /* Footer */
 
@@ -204,6 +211,11 @@ footer{
 .my-link-cont:hover {
     color: var(--sailor-blue-);
     text-decoration: none;
+}
+
+/* override bootstrap text color */
+#phoneHelp {
+    color: var(--white);
 }
 
 /* 404 page*/
