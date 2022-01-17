@@ -1,4 +1,4 @@
-https://fonts.googleapis.com/css2?family=Crimson+Pro&family=Literata
+@import url('https://fonts.googleapis.com/css?family=Oswald|Lato:300');
 
 :root {
     --dark-sailor-blue: #172531;
@@ -68,7 +68,7 @@ main h1 {
 
 /* shape images container into a circle */
 .circle {
-    border: 1px solid var(--dark-sailor-blue);
+    border: 1px solid var(--light-blue);
     border-radius: 50%;
     z-index: 2;
     background-color: var(--light-blue);
@@ -89,10 +89,6 @@ never visible for news section */
     padding: 5% 5% 5% 40%;
     margin-left: -35%;
     z-index: -1;
-}
-
-.meal-deal h2 {
-    text-align: right;
 }
 
 /* make background below text sink behind image and image container and possition so that edges are 
@@ -245,10 +241,6 @@ footer{
         overflow: hidden;
     }
     
-    /* align heading to the left */
-    .meal-deal h2 {
-        text-align: left;
-    }
 }
 
 @media (max-width: 576px) {
