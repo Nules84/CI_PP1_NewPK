@@ -152,18 +152,6 @@ footer{
     font-weight: bolder;
 }
 
-/* menu */
-
-.menu-section h2 {
-    text-align: center;
-    background: red);
-    padding: 1rem 0;
-    border-top: 1px solid;
-    border-bottom: 1px solid;
-    border-color: var(--dark-sailor-blue);
-    margin-bottom: 0;
-}
-
 /* make image sticky on top, but below h2 by calculating offset based on h2 element height (2xpadding + font-size) */
 .my-sticky-top{
     position: relative;
