@@ -77,7 +77,7 @@ main h1 {
     font-weight: bolder;
 }
 
-/* news */
+/* commisions */
 
 /* shape images container into a circle */
 
@@ -89,11 +89,11 @@ main h1 {
 }
 
 
-.meal-deal h2 {
+.pricing h2 {
     text-align: right;
 } 
 
-/* news */
+/* commisions */
 
 /* shape images container into a circle */
 .circle {
@@ -111,8 +111,8 @@ main h1 {
 }
 
 /* make background below text sink behind image and image container and position so that edges are 
-never visible for news section */
-.news p{
+never visible for commisions section */
+.commisions p{
     background-color: var(--blue);
     color: var(--baby-blue);
     padding: 5% 5% 5% 40%;
@@ -121,8 +121,8 @@ never visible for news section */
 }
 
 /* make background below text behind image and image container and possition so that edges are 
-never visible for meal deal section */
-.meal-deal p {
+never visible for pricing section */
+.pricing p {
     background-color: var(--blue);
     color: var(--baby-blue);
     padding: 5% 5% 5% 40%;
@@ -266,7 +266,7 @@ footer{
     }
 
     /* hide overflow caused by margins to avoid horizontal scrolling */
-    .news, .meal-deal {
+    .commisions, .pricing {
         overflow: hidden;
     }
     
