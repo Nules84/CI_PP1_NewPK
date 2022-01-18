@@ -68,8 +68,30 @@ h1, h2, h3, h4, h5, h6 {
 main h1 {
     text-transform: uppercase;
     font-weight: bolder;
-    text-decoration-color: aliceblue;
+    text-decoration-color: var(--white);
 }
+/* main*/
+
+main h1 {
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+/* news */
+
+/* shape images container into a circle */
+
+/* shape image into a circle and layer it on top of container */
+.circle img {
+    width: 100%;
+    border-radius: 50%;
+    z-index: 3;    
+}
+
+
+.meal-deal h2 {
+    text-align: right;
+} 
 
 /* news */
 
