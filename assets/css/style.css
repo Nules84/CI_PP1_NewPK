@@ -134,10 +134,11 @@ never visible for pricing section */
 .pricing p {
     background-color: var(--blue);
     color: var(--baby-blue);
-    padding: 5% 5% 5% 40%;
+    padding: 5% 40% 5% 5%;
     margin-right: -35%;
     z-index: -1;
 }
+
 
 /* Footer */
 
