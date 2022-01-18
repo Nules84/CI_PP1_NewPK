@@ -229,9 +229,9 @@ footer{
 }
 
 .my-btn:hover {
-    background-color: var(---light-blue);
+    background-color: var(--light-blue);
     color: var(--baby-blue);
-    border: 1px solid var(---light-blue)
+    border: 1px solid var(--light-blue)
 }
 
 .my-link-cont {
@@ -244,7 +244,10 @@ footer{
     text-decoration: none;
 }
 
+.form-label {
+    color: var(--baby-blue);
 
+}
 
 /* 404 page*/
 
