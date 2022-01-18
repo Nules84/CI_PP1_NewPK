@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald|Lato:300');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 
 
 :root {
@@ -14,12 +15,18 @@
 code taken from https://forum.freecodecamp.org/t/footer-white-space-below/191360/4 */
 body {
     background-color: var(--dark-sailor-blue);
-    font-family: 'oswald', sans-serif;
+    font-family: 'Oswald', sans-serif;
     display: flex;
     flex-direction: column;
-    min-height: 100vh;
+    min-height: 20vh;
     margin: 0;
 }
+
+p {
+    color: var(--white);
+    font-family: 'Monserrat', sans-serif;
+
+} 
 
 main {
     flex: 1 0 auto;
@@ -30,7 +37,8 @@ main header{
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'oswald', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    color: var(--white);
 }
 
 /* header */
@@ -45,7 +53,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar .my-logo {
-    font-family: 'Pinyon Script', ;
+    font-family: 'Oswald', sans-serif ;
     color: var(--baby-blue);
 }
 
@@ -75,6 +83,7 @@ main h1 {
 main h1 {
     text-transform: uppercase;
     font-weight: bolder;
+    color: var(--white);
 }
 
 /* commisions */
@@ -133,7 +142,7 @@ never visible for pricing section */
 /* Footer */
 
 footer{
-    height: 50px;
+    height: 25px;
 }
 
 .social-networks{
@@ -235,10 +244,7 @@ footer{
     text-decoration: none;
 }
 
-/* override bootstrap text color */
-#phoneHelp {
-    color: var(--white);
-}
+
 
 /* 404 page*/
 
