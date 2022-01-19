@@ -6,9 +6,9 @@ An important note on the longer path to buy is that unlike most B2C websites - w
 
 The business goals of this website are:
 
-    Build brand awareness.
-    Provide high quality examples of the artist's drawings and paintings.
-    Drive sales in the form of first contact (via the contact page) that will then lead to a sales call with the artist.
+   * Build brand awareness.
+    * Provide high quality examples of the artist's drawings and paintings.
+    * Drive sales in the form of first contact (via the contact page) that will then lead to a sales call with the artist.
     Excellent UX to keep potential clients on site long enough to fill out the contact form.
 
 The customer goals of this website are:
@@ -44,7 +44,7 @@ This project is the best way to help them achieve these things because:
         Gives the client the information they need without overloading them.
         Guiding them to the goal of the website - to fill out the contact form.
 
-Client stories
+User stories
 
     As a new visitor to the website, I want to easily navigate the site, so I can find what I need efficiently.
     As a new visitor to the website, I want view this artist's gallery, and view their work in detail so I can decide if I want to commission their work.
