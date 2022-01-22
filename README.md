@@ -80,36 +80,32 @@ User stories
 
 ![image](https://user-images.githubusercontent.com/95381506/150639987-1c9d3c75-b184-43ca-8851-84e36fa8ea36.png)
 
-
-
-- __Meetup Times section__
-
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
-
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 ![image](https://user-images.githubusercontent.com/95381506/150640012-8b7f3043-d496-4fd3-a18a-0d5211de49ac.png)
-
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer section includes links to the relevant social media sites for Padraic King. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![image](https://user-images.githubusercontent.com/95381506/150640104-629d4847-e3b1-4545-ba5a-646df0a0c2d1.png)
 
 - __Gallery__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The gallery will provide the user with supporting images to see what Padraics work looks like. 
+  - This section is valuable to the user as they will be able to easily identify the types of art Padraic can produce and the quality of product they will receive upon purchase. 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![image](https://user-images.githubusercontent.com/95381506/150640190-05671364-0dae-4455-b752-4be078bd41c3.png)
 
-- __The Sign Up Page__
+- The gallery page also includes a short video of some of Padraics work. This videos is there to keep people on Padraic Kings website longer and engage them with more content. People work with people, and video helps people get to know, like and trust Padraics quality of work. The video helps to keep the audience interested in the product and service.
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+![image](https://user-images.githubusercontent.com/95381506/150640312-3d75cb56-451c-4a7f-b11f-79c175901f37.png)
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+
+- __The Contact Page__
+
+  - This page will allow the user to get in contact with Padraic and to commence ordering their first commission visa a form submission. The user will be asked to submit their full name and email address. Upon submitting the form we will be able to compile a useful mailing list as a marketing tool to contact our clients in future with new services and products.
+
+![image](https://user-images.githubusercontent.com/95381506/150640383-a540348d-bade-4a83-84b4-85c37262f7f7.png)
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
