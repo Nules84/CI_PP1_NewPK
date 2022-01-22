@@ -158,12 +158,13 @@ footer{
 .social-networks i{
     font-size: 160%;
     margin: 1%;
-    padding: 5%;
+    padding: 2%;
     color: var(--baby-blue);
 }
 .copyright {
     text-align: center;
     color: var(--baby-blue);
+    font-family: 'oswald', sans-serif;
 }
 
 /* about */
