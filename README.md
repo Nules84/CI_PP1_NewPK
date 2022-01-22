@@ -39,10 +39,10 @@ This project is the best way to help them achieve these things because:
    *  Most artists' websites have very poor UX.
     Other artists' websites are over complicated and produce information overload quickly.
     This website is:
-        Easy to navigate.
-        Steps the client through easy to understand learnable information.
-        Gives the client the information they need without overloading them.
-        Guiding them to the goal of the website - to fill out the contact form.
+       *  Easy to navigate.
+       *  Steps the client through easy to understand learnable information.
+       *  Gives the client the information they need without overloading them.
+       *  Guiding them to the goal of the website - to fill out the contact form.
 
 User stories
 
