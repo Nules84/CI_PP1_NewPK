@@ -63,7 +63,7 @@ User stories
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  - Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 ![image](https://user-images.githubusercontent.com/95381506/150635670-4669ce40-ff24-4382-b652-2146b0fbacd3.png)
@@ -90,6 +90,21 @@ User stories
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
 ![image](https://user-images.githubusercontent.com/95381506/150640104-629d4847-e3b1-4545-ba5a-646df0a0c2d1.png)
+
+- __About__
+
+  - The about section gives the user a more personal connection to the artist and his work, featuring the background experience of the artist, his life and image.
+  - Having a personal connection with the artist and the background of his work adds value and personal connection to the work. 
+
+![image](https://user-images.githubusercontent.com/95381506/150646200-a7a16224-3172-41bc-9a17-bb5211cb2df1.png)
+
+  - Below the about information we have a tesimonial which again adds alue by showing testimony from a happy customer. 
+
+![image](https://user-images.githubusercontent.com/95381506/150646216-e014a035-387f-4287-9591-8d03068c2161.png)
+
+  - Below teh testimonial I have included a news section which will be updated at intervals. This section will update the user on the current activities of the artist, adding further value as it gives an impression of current and future project investments.
+
+![image](https://user-images.githubusercontent.com/95381506/150646317-6826c230-05a0-46f3-85eb-bc7885977965.png)
 
 - __Gallery__
 
