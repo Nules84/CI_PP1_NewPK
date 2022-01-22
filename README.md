@@ -68,9 +68,8 @@ User stories
 
 ![image](https://user-images.githubusercontent.com/95381506/150635670-4669ce40-ff24-4382-b652-2146b0fbacd3.png)
 
-- All four pages will also have the bespoke "PK" logo along side the title on the browser tab:
+- All four pages will also have the bespoke "PK" logo along side the title on the browser tab: ![Logo](https://user-images.githubusercontent.com/95381506/150650633-e17a22ab-c11d-4253-8914-f9bd259ee7bf.png)
 
-![image](https://user-images.githubusercontent.com/95381506/150650276-c4180198-8120-4107-8fc6-c8bb880874db.png)
 
 
 - __The landing page image__
@@ -90,6 +89,7 @@ User stories
 ![image](https://user-images.githubusercontent.com/95381506/150640012-8b7f3043-d496-4fd3-a18a-0d5211de49ac.png)
 
 - __The Footer__ 
+
 
   - The footer section includes links to the relevant social media sites for Padraic King. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
