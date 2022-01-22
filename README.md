@@ -64,14 +64,14 @@ User stories
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![image](https://user-images.githubusercontent.com/95381506/150635670-4669ce40-ff24-4382-b652-2146b0fbacd3.png)
 
 - __The landing page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The landing includes a photograph with the "Home" button highlighted in a light blue colour to allow the user to see exactly which location this site would be applicable to. 
+  - This section introduces the user to Padraic Kings work with an eye catching image to grab their attention
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![image](https://user-images.githubusercontent.com/95381506/150635694-81f78c31-58dd-47d3-8f4b-783e38f8d3b3.png)
 
 - __Club Ethos Section__
 
