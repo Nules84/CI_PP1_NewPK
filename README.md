@@ -68,6 +68,11 @@ User stories
 
 ![image](https://user-images.githubusercontent.com/95381506/150635670-4669ce40-ff24-4382-b652-2146b0fbacd3.png)
 
+- All four pages will also have the bespoke "PK" logo along side the title on the browser tab:
+
+![image](https://user-images.githubusercontent.com/95381506/150650276-c4180198-8120-4107-8fc6-c8bb880874db.png)
+
+
 - __The landing page image__
 
   - The landing includes a photograph with the "Home" button highlighted in a light blue colour to allow the user to see exactly which location this site would be applicable to. 
@@ -128,7 +133,7 @@ I have included a google map of the Artists geographic location, should clients 
 
 ### Features Left to Implement
 
-- I would like to include:
+In future, I would like to include:
 - a downward arrow over the bottom centre of the Hero Image carousel to help leed the users scroll toward the content which continues further down the page. 
 - An Archive Tab for Sold and Archived paintings.
 - A section for print sales.
