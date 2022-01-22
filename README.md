@@ -68,6 +68,10 @@ User stories
 
 ![image](https://user-images.githubusercontent.com/95381506/150635670-4669ce40-ff24-4382-b652-2146b0fbacd3.png)
 
+- All four pages will also have the bespoke branding "PK" logo along side the title on the browser tab: 
+
+![Logo](https://user-images.githubusercontent.com/95381506/150650633-e17a22ab-c11d-4253-8914-f9bd259ee7bf.png)
+
 - __The landing page image__
 
   - The landing includes a photograph with the "Home" button highlighted in a light blue colour to allow the user to see exactly which location this site would be applicable to. 
@@ -85,6 +89,7 @@ User stories
 ![image](https://user-images.githubusercontent.com/95381506/150640012-8b7f3043-d496-4fd3-a18a-0d5211de49ac.png)
 
 - __The Footer__ 
+
 
   - The footer section includes links to the relevant social media sites for Padraic King. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
@@ -128,7 +133,7 @@ I have included a google map of the Artists geographic location, should clients 
 
 ### Features Left to Implement
 
-- I would like to include:
+In future, I would like to include:
 - a downward arrow over the bottom centre of the Hero Image carousel to help leed the users scroll toward the content which continues further down the page. 
 - An Archive Tab for Sold and Archived paintings.
 - A section for print sales.
