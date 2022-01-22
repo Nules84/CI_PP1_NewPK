@@ -124,9 +124,7 @@ User stories
 
 ![image](https://user-images.githubusercontent.com/95381506/150640383-a540348d-bade-4a83-84b4-85c37262f7f7.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+I have included a google map of the Artists geographic location, should clients in the area wish to know the locality of the studio. I have purposefully made the artists specific address and location vague, as the artist has requested that his personal details and home address remain anonymous. 
 
 ### Features Left to Implement
 
