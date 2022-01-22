@@ -68,9 +68,9 @@ User stories
 
 ![image](https://user-images.githubusercontent.com/95381506/150635670-4669ce40-ff24-4382-b652-2146b0fbacd3.png)
 
-- All four pages will also have the bespoke "PK" logo along side the title on the browser tab: ![Logo](https://user-images.githubusercontent.com/95381506/150650633-e17a22ab-c11d-4253-8914-f9bd259ee7bf.png)
+- All four pages will also have the bespoke branding "PK" logo along side the title on the browser tab: 
 
-
+![Logo](https://user-images.githubusercontent.com/95381506/150650633-e17a22ab-c11d-4253-8914-f9bd259ee7bf.png)
 
 - __The landing page image__
 
