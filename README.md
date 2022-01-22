@@ -25,13 +25,13 @@ The customer goals of this website are:
 Ideal client
 The ideal client for this business is:
 
-    * English speaking.
-    * Has disposable income.
-    * Can be anywhere in the world.
+   *  English speaking.
+   *  Has disposable income.
+   *  Can be anywhere in the world.
 
 Visitors to this website are searching for:
 
-    * An artist to create a commissioned painting to decorate their home.
+   *  An artist to create a commissioned painting to decorate their home.
     And/or a bespoke gift.
 
 This project is the best way to help them achieve these things because:
@@ -46,7 +46,7 @@ This project is the best way to help them achieve these things because:
 
 User stories
 
-    * As a new visitor to the website, I want to easily navigate the site, so I can find what I need efficiently.
+   *  As a new visitor to the website, I want to easily navigate the site, so I can find what I need efficiently.
    *  As a new visitor to the website, I want view this artist's gallery, and view their work in detail so I can decide if I want to commission their work.
    *  As a new visitor to the website, I want learn more about the artist, so I can feel I connect with him as a person.
    *  As a potential client, I want to know what past clients thought of their artwork and the service they received.
