@@ -73,12 +73,14 @@ User stories
 
 ![image](https://user-images.githubusercontent.com/95381506/150635694-81f78c31-58dd-47d3-8f4b-783e38f8d3b3.png)
 
-- __Club Ethos Section__
+- __Commission and Pricing Section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The Commissions and Pricing section will allow the user to see the commission services provided by the artist and how much it would cost for the service. 
+  - By making the buying process simple and explicit as possible, this should encourage the user to consider contacting us for their first commission.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![image](https://user-images.githubusercontent.com/95381506/150639987-1c9d3c75-b184-43ca-8851-84e36fa8ea36.png)
+
+
 
 - __Meetup Times section__
 
@@ -86,6 +88,8 @@ User stories
   - This section will be updated as these times change to keep the user up to date. 
 
 ![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![image](https://user-images.githubusercontent.com/95381506/150640012-8b7f3043-d496-4fd3-a18a-0d5211de49ac.png)
+
 
 - __The Footer__ 
 
