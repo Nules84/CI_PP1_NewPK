@@ -18,7 +18,7 @@ The customer goals of this website are:
    *  Intuitive ordering process.
 
 
-![Responsice Mockup]
+![image](https://user-images.githubusercontent.com/95381506/150635609-c0885115-2049-435f-bea5-f79a10394a60.png)
 
 ## UX
 
