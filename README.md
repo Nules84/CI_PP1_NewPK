@@ -128,7 +128,10 @@ I have included a google map of the Artists geographic location, should clients 
 
 ### Features Left to Implement
 
-- Another feature idea
+- I would like to include:
+- a downward arrow over the bottom centre of the Hero Image carousel to help leed the users scroll toward the content which continues further down the page. 
+- An Archive Tab for Sold and Archived paintings.
+- A section for print sales.
 
 ## Testing 
 
