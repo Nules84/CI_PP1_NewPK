@@ -138,7 +138,7 @@ never visible for pricing section */
     margin-right: -35%;
     z-index: -1;
 }
-iframe{
+.iframe{
     border-width: 0px;
 }
 
