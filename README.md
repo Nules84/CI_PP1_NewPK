@@ -2,6 +2,8 @@
 
 (Developer: Nuala Gallagher King)
 
+![image](https://user-images.githubusercontent.com/95381506/150635609-c0885115-2049-435f-bea5-f79a10394a60.png)
+
 A comprehensive website for a traditional portrait artist based in Ireland. The website features a promotional video, testimonials, a gallery of the artist's work, an about page, pricing tables, a clear step-by-step guide to ordering and a contact page. The primary goal of the website is to lead potential customers to making first contact with the artist via the contact page.
 
 [View deployed site here](https://8000-nules84-cipp1newpk-hgh1260w4mc.ws-eu27.gitpod.io/index.html)
@@ -22,7 +24,6 @@ The customer goals of this website are:
    *  Intuitive ordering process.
 
 
-![image](https://user-images.githubusercontent.com/95381506/150635609-c0885115-2049-435f-bea5-f79a10394a60.png)
 
 ## UX
 
