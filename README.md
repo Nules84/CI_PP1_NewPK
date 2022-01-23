@@ -1,5 +1,7 @@
 # Padraic King
 
+(Developer: Nuala Gallagher King)
+
 A comprehensive website for a traditional portrait artist based in Ireland. The website features a promotional video, testimonials, a gallery of the artist's work, an about page, pricing tables, a clear step-by-step guide to ordering and a contact page. The primary goal of the website is to lead potential customers to making first contact with the artist via the contact page.
 
 [View deployed site here](https://8000-nules84-cipp1newpk-hgh1260w4mc.ws-eu27.gitpod.io/index.html)
