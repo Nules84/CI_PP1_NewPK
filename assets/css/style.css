@@ -139,6 +139,8 @@ never visible for pricing section */
     z-index: -1;
     padding:56.25% 0 0 0;
     position:relative;
+    frameborder
+    fullscreen; picture-in-picture" allowfullscreen
 }
 /* Vimeo Responsive Embed */
 .embed-container {
