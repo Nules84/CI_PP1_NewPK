@@ -141,6 +141,23 @@ never visible for pricing section */
 .iframe{
     border-width: 0px;
 }
+.embed-container {
+    position: relative; 
+    padding-bottom: 56.25%; 
+    padding-top: 30px; 
+    height: 0; 
+    overflow: hidden;
+    padding:56.25% 0 0 0;
+    position:relative;"
+} 
+            
+.embed-container iframe, .embed-container object, .embed-container embed { 
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 100%; 
+}
 
 /* Footer */
 
@@ -265,15 +282,15 @@ footer{
 }
 
 .home-btn {
-    background-color: var(---dark-sailor-blue);
-    color: var(-baby-blue);
+    background-color: var(--dark-sailor-blue);
+    color: var(--baby-blue);
     text-decoration: none;
     display: block;
     border-radius: 0.25rem;
 }
 
 .home-btn:hover {
-    color: var(---light-blue);
+    color: var(--light-blue);
 }
 
 @media (max-width: 768px) {
