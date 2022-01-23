@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/95381506/150635609-c0885115-2049-435f-bea5-f79a10394a60.png)
 
-[View deployed site here](https://8000-nules84-cipp1newpk-hgh1260w4mc.ws-eu27.gitpod.io/index.html)
+[View deployed site here](https://nules84.github.io/CI_PP1_NewPK/)
 
 ## Table of Contents
 
