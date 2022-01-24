@@ -19,14 +19,20 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 20vh;
-    margin: 0;
+    margin: 10;
 }
 
 p {
     color: var(--white);
     font-family: 'Monserrat', sans-serif;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin-block-start: 1em;
 
 } 
+*, ::after, ::before {
+    box-sizing: border-box;
+}
 
 main {
     flex: 1 0 auto;
@@ -124,7 +130,7 @@ never visible for commissions section */
 .commissions p{
     background-color: var(--blue);
     color: var(--white);
-    padding: 5% 5% 5% 40%;
+    padding: 5% 10% 10% 50%;
     margin-left: -35%;
     z-index: -1;
 }
@@ -287,22 +293,22 @@ footer{
     /* make carousel height bigger on smaller screen sizes */
     .carousel-item img {
         height: 50vh;
-        width: auto;
+        width: 100%;
         object-fit: cover;
         overflow: hidden;
       }
 
-    /* hide overflow caused by margins to avoid horizontal scrolling */
-    .commissions, .pricing {
-        overflow: hidden;
-    }
-    
+
 }
  /* hide overflow caused by margins to avoid horizontal scrolling */
  .commissions, .pricing {
     overflow: hidden;
 }
 
+/* align heading to the right */
+.pricing h2 {
+    text-align: right;
+}
 @media (max-width: 576px) {
     /* make divs on info box stretch full width to avoid overflow on smaller screen sizes */
     .find-us div {
