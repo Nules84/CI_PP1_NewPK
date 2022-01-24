@@ -122,7 +122,7 @@ main h1 {
 /* make background below text sink behind image and image container and position so that edges are 
 never visible for commissions section */
 .commissions p{
-    background-color: var(--light-blue);
+    background-color: var(--blue);
     color: var(--white);
     padding: 5% 5% 5% 40%;
     margin-left: -35%;
@@ -133,7 +133,7 @@ never visible for commissions section */
 never visible for pricing section */
 .pricing p {
     background-color: var(--blue);
-    color: var(--baby-blue);
+    color: var(--white);
     padding: 5% 40% 5% 5%;
     margin-right: -35%;
     z-index: -1;
