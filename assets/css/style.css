@@ -292,7 +292,7 @@ footer{
 @media (max-width: 768px) {
     /* make carousel height bigger on smaller screen sizes */
     .carousel-item img {
-        height: 50vh;
+        height: 70vh;
         width: 100%;
         object-fit: cover;
         overflow: hidden;
@@ -300,10 +300,7 @@ footer{
 
 
 }
- /* hide overflow caused by margins to avoid horizontal scrolling */
- .commissions, .pricing {
-    overflow: hidden;
-}
+
 
 /* align heading to the right */
 .pricing h2 {
