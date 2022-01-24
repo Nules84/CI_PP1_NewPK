@@ -94,12 +94,12 @@ main h1 {
 .circle img {
     width: 100%;
     border-radius: 50%;
-    z-index: 3;    
+    z-index: 5;    
 }
-
 
 .pricing h2 {
     text-align: right;
+    padding-right: 1vw;
 } 
 
 /* pricing */
@@ -286,9 +286,11 @@ footer{
 @media (max-width: 768px) {
     /* make carousel height bigger on smaller screen sizes */
     .carousel-item img {
-        height: 70vh;
+        height: 50vh;
+        width: auto;
         object-fit: cover;
-    }
+        overflow: hidden;
+      }
 
     /* hide overflow caused by margins to avoid horizontal scrolling */
     .commissions, .pricing {
@@ -297,7 +299,7 @@ footer{
     
 }
  /* hide overflow caused by margins to avoid horizontal scrolling */
- .news, .meal-deal {
+ .commissions, .pricing {
     overflow: hidden;
 }
 
