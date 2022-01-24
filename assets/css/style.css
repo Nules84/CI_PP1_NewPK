@@ -91,6 +91,9 @@ main h1 {
     font-weight: bolder;
     color: var(--white);
 }
+.carousel-item {
+    min-width: 100%;
+}
 
 /* commissions */
 
