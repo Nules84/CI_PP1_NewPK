@@ -165,7 +165,7 @@ footer{
     font-size: 160%;
     margin: 1%;
     padding: 2%;
-    color: var(--baby-blue);
+    color: var(--white);
 }
 .copyright {
     text-align: center;
@@ -190,12 +190,15 @@ footer{
 .reviews p {
     text-align: center;
     font-style: italic;
+    font-weight: bolder;
+    color: var(--dark-sailor-blue);
 }
 
 .reviews h2 {
     text-align: center;
     text-transform: uppercase;
     font-weight: bolder;
+    color: var(--dark-sailor-blue);
 }
 
 /* make image sticky on top, but below h2 by calculating offset based on h2 element height (2xpadding + font-size) */
