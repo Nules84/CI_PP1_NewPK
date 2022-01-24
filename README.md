@@ -64,10 +64,11 @@ The webpage was designed with the feeling a customer might get while dining at t
 Some of the imagery on the page has a round shape with a border to resemble food served on a plate.
 
 ### Colour
-For the colour sheme warm brown tones were chosen to match the images on the page and also the colour theme of the actual restaurant. To narrow down the colours I used Adobe Color. After deciding on the colour I tested them on WebAIM to make sure the contrast between them was right.
+For the colour sheme warm blue tones were chosen to match the images on the page and also the colour theme of the sea side where Padraic grew up. To narrow down the colours I used Adobe Color. After deciding on the colour I tested them on WebAIM to make sure the contrast between them was right.
 <br>
 
-![Colour scheme](docs/features/color-palette.png)
+![color](https://user-images.githubusercontent.com/95381506/150836380-781b5a3e-9011-4873-b698-ab09038b4691.JPG)
+
 
 ## UX
 
