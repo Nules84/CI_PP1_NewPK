@@ -19,7 +19,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 20vh;
-    margin: 10;
+    margin: 10vh;
 }
 
 p {
