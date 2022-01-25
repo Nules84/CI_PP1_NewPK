@@ -394,6 +394,15 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 <img src="docs/user-story-testing/user-story-7v2-15.jpg">
 <img src="docs/user-story-testing/user-story-9-15.jpg">
 </details>
+
+| **Bug** | **Fix** |
+| ----------- | ----------- |
+| Overflow appears when viewed on smaller devices | applying the overflow-x:hidden to the wrapper instead of the <body> or <html> fixed the issue |
+| Position of google map jumped below contact form | *********Add required attribute to message input field********* |
+| Navbar divides into two rows on xs screen size | Add a media query to remove the right margin of the logo in the navbar on xs screen |
+| Email overflows on xs screen size | Add a media query that makes the divs spread to 100% width on xs sreens to froce the content onto a seperate line |
+| When viewed on tablets, the contact page has whitespace after the footer | Set min-height for body to 100vh |
+
 ### Performing tests on various devices 
 The website was tested on the following devices:
 - Lenovo Yoga 2 Pro (both in pc and tablet mode)

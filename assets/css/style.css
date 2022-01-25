@@ -19,8 +19,13 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 20vh;
-    margin: 10vh;
+    margin: 0;
+    
 }
+
+html, body {
+    overflow-x:hidden 
+  }
 
 p {
     color: var(--white);
@@ -28,6 +33,7 @@ p {
     margin-top: 0;
     margin-bottom: 1rem;
     margin-block-start: 1em;
+    overflow: 0;
 
 } 
 *, ::after, ::before {
@@ -94,8 +100,6 @@ main h1 {
 
 /* commissions */
 
-/* shape images container into a circle */
-
 /* shape image into a circle and layer it on top of container */
 .circle img {
     width: 100%;
@@ -125,9 +129,21 @@ main h1 {
     z-index: 3;    
 }
 
+/* menu */
+
+.menu-section h2 {
+    text-align: center;
+    background: url('../images/menu-background.jpg');
+    padding: 1rem 0;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-color: var(--dark-brown);
+    margin-bottom: 0;
+}
+
 /* make background below text sink behind image and image container and position so that edges are 
 never visible for commissions section */
-.commissions p{
+.commissions p {
     background-color: var(--blue);
     color: var(--white);
     padding: 5% 5% 5% 50%;
@@ -270,7 +286,6 @@ footer{
 
 }
 
-
 /* 404 page*/
 
 #error-img-cont {
@@ -300,10 +315,14 @@ footer{
 
 }
 
-
 /* align heading to the right */
 .pricing h2 {
     text-align: right;
+}
+
+/* hide overflow caused by margins to avoid horizontal scrolling */
+.commissions, .pricing {
+    overflow: hidden;
 }
 @media (max-width: 576px) {
     /* make divs on info box stretch full width to avoid overflow on smaller screen sizes */
@@ -315,6 +334,6 @@ footer{
 @media (max-width: 330px) {
     /* remove right margin to avoid moving of hamburger menu to second row of navbar */
     .navbar-brand {
-        margin-right: 0;
+        margin-right: 0 auto;
     }
 }
