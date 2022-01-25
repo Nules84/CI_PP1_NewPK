@@ -104,7 +104,7 @@ User stories
    *  As an interested client, I want to understand the ordering process, so I know what steps to take next.
    *  As an interested client, I want an easy to fill in contact form, so I can make contact with the artist and place my order.
    *  As an interested observer and/or potential client, I want to follow the artist on social media, so I can keep up with her latest news.
-   *  As a returning visitor to the website, who has already decided to contact the artist, I want to be able to find the request a quote page easily.
+   *  As a returning visitor to the website, who has already decided to contact the artist, I want to be able to find out where the artist is geographically so that I might pick up my commission if required.
 
 
 ### Existing Features
@@ -239,7 +239,7 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Menu | Navigate to the Gallery page | See various examples of completed work on page | Works as expected |
+| Gallery | Navigate to the Gallery page | See various examples of completed work on page | Works as expected |
 
 <details><summary>Screenshots</summary>
 
@@ -306,11 +306,11 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 
 </details>
 
-9. As a returning visitor to the website, who has already decided to contact the artist, I want to be able to find out where the artist is geographically so I can pick up my commission.
+9. As a returning visitor to the website, who has already decided to contact the artist, I want to be able to find out where the artist is geographically so that I might pick up my commission if required.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Contact| Navigate to the Contact Page and locate the google map of artists geographical| view and scroll google map for geographic location| Works as expectd |
+| Contact| Navigate to the Contact Page and locate the google map of artists geographical location| view and scroll google map for geographic location| Works as expectd |
 
 <details><summary>Screenshots</summary>
 
