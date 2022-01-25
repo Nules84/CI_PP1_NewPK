@@ -182,20 +182,11 @@ I have included a google map of the Artists geographic location, should clients 
 ### Features Left to Implement
 
 In future, I would like to include:
-- a downward arrow over the bottom centre of the Hero Image carousel to help leed the users scroll toward the content which continues further down the page. 
+- A downward arrow over the bottom centre of the Hero Image carousel to help leed the users scroll toward the content which continues further down the page. 
 - An Archive Tab for Sold and Archived paintings.
-- A section for print sales.
+- A page for print sales.
 
 ## Testing 
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
 
 ### Validator Testing 
 
@@ -211,8 +202,6 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 <details><summary>Contact</summary>
 <img src="docs/validation/validation-html-contact.jpg">
 </details>![w3c-html-check-contact](https://user-images.githubusercontent.com/95381506/151059550-6d9ce1f0-469d-4344-91bd-15c8fe65bcfc.JPG)
-
-  
 - CSS
 
 ### Performance 
@@ -235,164 +224,96 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 </details>
 ### Testing user stories
 
-1. As a first time user, I want to know where the restaurant is lokated
+1. As a new visitor to the website, I want to easily navigate the site, so I can find what I need efficiently.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Map | Navigate to the Contact Us page, locate the Google Map | Locating a map showing the location of the restaurant | Works as expected |
-| Footer - contact information section | On any page scroll down to the footer | Find the address of the restaurant | Works as expected |
+| Nav bar | Navigate to the nav bar menu or hamburger menu on smaller screen| 4 options available for user Home, About, Gallery and  | Works as expected |
+| Footer - contact information section | On any page scroll down to the footer | Find links to social media | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-1v1-12.jpg">
-<img src="docs/user-story-testing/user-story-1v2.jpg">
+
 </details>
 
-2. As a first time user, I want to know the price range
+2. As a new visitor to the website, I want view this artist's gallery, and view their work in detail so I can decide if I want to commission their work.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Menu | Navigate to the Menu page | See prices on menu page | Works as expected |
+| Menu | Navigate to the Gallery page | See various examples of completed work on page | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-2.jpg">
+
 </details>
 
-3. As a first time user, I want to know more about the restaurant
+3. As a new visitor to the website, I want learn more about the artist, so I can feel I connect with him as a person.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| About Us | Navigate to the About page and locate the About Us section | Find description of the restaurant | Works as expected |
-| Customer reviews | Navigate to the About page, scroll down to What our guests say section | Read customer reviews | Works as expected | 
+| About | Navigate to the About page and locate the About the Artist section | Find description of the artist| Works as expected | 
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-3-14.jpg">
+
 </details>
 
-4. As a first time user, I want to get a feel of what to expect at the restaurant
+4. As a potential client, I want to know what past clients thought of their artwork and the service they received.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Gallery | Navigate to the Gallery page | Find pictures of the restaurant and food served there | Works as expected |
-| Promo video | Navigate to the GAlelry page and scroll to the promo video | Watch promo video | Works as expected |
+| Tesimonial | Navigate to the About page | Find testimonial of previous client | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-4.jpg">
+
 </details>
 
-5. As a returning user, I want to see the Sunday meal offer
+5. As a potential client, I want to view expected prices for a portrait, so I can decide if it is within my budget to order.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Meal-deal | On home page scroll down to the Sunday meal deal section | Find the meal-deal for the upcomming Sunday | Works as expected |
+| Home | On home page scroll down to pricing section | Find the pricing expected as per square inch | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-5.jpg">
+
 </details>
 
-6. As a returnign user, I want to know the opening times
+6. As an interested client, I want to understand the ordering process, so I know what steps to take next.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Footer - opening times section | On any page scroll to the footer | See opening times | Works as expected |
+| Home | On home page scroll down to commissions section | See instructions on how to complete the commission process | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-6.jpg">
+
 </details>
 
-7. As a returning user, I want to find a phone number to call for reservation
+7. As an interested client, I want an easy to fill in contact form, so I can make contact with the artist and place my order.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
-| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+| Contact | Navigate to the Contact page through the nav bar | filled out contact form | Works as expected |
+
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-7v1-15.jpg">
-<img src="docs/user-story-testing/user-story-7v2-15.jpg">
+
 </details>
 
-8. As a returning user, I want to see the menu
+8. As an interested observer and/or potential client, I want to follow the artist on social media, so I can keep up with her latest news.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Menu | Navigate to the menu page | Read the menu | Works as expected |
+| Footer| Navigate to the footer on all pages | click links that lead to social media sites | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-8.jpg">
+
 </details>
 
-9. As a returning user, I want to leave some comment, suggestion or message to the staff
+9. As a returning visitor to the website, who has already decided to contact the artist, I want to be able to find out where the artist is geographically so I can pick up my commission.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Contact Form | Navigate to the Contact Us Page and locate the contact form, fill out and submit contact form | Data submited via contact form | Works as expectd |
+| Contact| Navigate to the Contact Page and locate the google map of artists geographical| view and scroll google map for geographic location| Works as expectd |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-9-15.jpg">
-</details>
 
-10. As a returning user, I want to find the restaurant on social media
-
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-| Footer - social media section | On any page scroll to the bottom | Click on social media links | Works as expected | 
-
-<details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-10.jpg">
-</details>
-
-11. As a returning user, I want to know who is preparing the food
-
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-| Meet the Chef | Navigate to the About page and scroll down to Meet the Chef section | Find brief bio of the Chef | Works as expected |
-
-<details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-11.jpg">
-</details>
-
-12. As a returning user, I want to get directions to the restaurant
-
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-| Map | Navigate to the Contact Us page, locate the map and click on directions link | See directions to the restaurant on Goole Maps | Works as expected |
-
-<details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-1v1-12.jpg">
-</details>
-
-13. As the site owner, I want users to find news about upcoming events or changes in opening times
-
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
-
-<details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-13.jpg">
-</details>
-
-14. As the site owner, I want users to get to know the restaurant 
-
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-| About Us | Navigate to About page and locate About Us section | See relevant information about the restaurant | Works as expected |
-
-<details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-3-14.jpg">
-</details>
-
-15. As the site owner, I want the users to be able to contact us
-
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-| Contact Form | Navigate to the Contact Us Page and locate the contact form, fill out and submit contact form | Data submited via contact form | Works as expectd |
-| Info Box | Navigate to Contact Us page and locate the How to find us section | Find the phone number | Works as expected |
-| Footer - contact information section | On any page scroll down to the footer | Find the phone number | Works as expected |
-
-<details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-7v1-15.jpg">
-<img src="docs/user-story-testing/user-story-7v2-15.jpg">
-<img src="docs/user-story-testing/user-story-9-15.jpg">
 </details>
 
 | **Bug** | **Fix** |
