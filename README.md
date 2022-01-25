@@ -199,7 +199,19 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ### Validator Testing 
 
-- HTML
+The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
+<details><summary>Home</summary>
+</details>![w3c-html-check-home](https://user-images.githubusercontent.com/95381506/151055938-b2080cc1-2bf4-4ea5-8e35-7284ffc7a410.JPG)
+<details><summary>About</summary>
+<img src="docs/validation/validation-html-about.jpg">
+</details>
+<details><summary>Gallery</summary>
+![w3c-html-check-gallery](https://user-images.githubusercontent.com/95381506/151059411-7a8afafa-6d83-4785-a3a0-3f6ddca7e49b.JPG)
+</details>
+<details><summary>Contact</summary>
+<img src="docs/validation/validation-html-contact.jpg">
+</details>![w3c-html-check-contact](https://user-images.githubusercontent.com/95381506/151059550-6d9ce1f0-469d-4344-91bd-15c8fe65bcfc.JPG)
+
   
 - CSS
 
