@@ -125,18 +125,6 @@ main h1 {
     z-index: 3;    
 }
 
-/* menu */
-
-.menu-section h2 {
-    text-align: center;
-    background: url('../images/menu-background.jpg');
-    padding: 1rem 0;
-    border-top: 1px solid;
-    border-bottom: 1px solid;
-    border-color: var(--dark-brown);
-    margin-bottom: 0;
-}
-
 /* make background below text sink behind image and image container and position so that edges are 
 never visible for commissions section */
 .commissions p {
