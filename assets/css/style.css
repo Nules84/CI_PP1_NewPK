@@ -125,22 +125,14 @@ main h1 {
     z-index: 3;    
 }
 
-/* menu */
-
-.menu-section h2 {
-    text-align: center;
-    background: url('../images/menu-background.jpg');
-    padding: 1rem 0;
-    border-top: 1px solid;
-    border-bottom: 1px solid;
-    border-color: var(--dark-brown);
-    margin-bottom: 0;
+.circle-right,.circle-left {
+background: linear-gradient(0deg, var(--dark-sailor-blue) 0%, var(--dark-sailor-blue) 35%, var(--blue) 35%, var(--blue) 65%, var(--dark-sailor-blue) 65%);
 }
+
 
 /* make background below text sink behind image and image container and position so that edges are 
 never visible for commissions section */
 .commissions p {
-    background-color: var(--blue);
     color: var(--white);
     padding: 5% 5% 5% 50%;
     margin-left: -35%;
@@ -150,7 +142,6 @@ never visible for commissions section */
 /* make background below text behind image and image container and position so that edges are 
 never visible for pricing section */
 .pricing p {
-    background-color: var(--blue);
     color: var(--white);
     padding: 5% 40% 5% 5%;
     margin-right: -35%;
