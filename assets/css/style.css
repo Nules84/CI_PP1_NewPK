@@ -22,9 +22,6 @@ body {
     margin: 0;
     
 }
-html, body {
-    overflow-x:hidden; 
-  }
 
 p {
     color: var(--white);
