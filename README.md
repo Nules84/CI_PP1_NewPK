@@ -354,7 +354,7 @@ You will need to mention unfixed bugs and why they were not fixed. This section 
 -https://ajgreaves.github.io/portrait-artist/ by AJ Greaves
 -https://mattbcoding.github.io/leinster-trophy/index.html by Matt Bodden
 
-- My mentor Mo Shami guided me towards attempting bootstrap in order to create a better user experience and responsiveness in the website.
+- My mentor Mo Shami for his expert guidance and teaching. Mo has guided me towards attempting bootstrap in order to create a better user experience and responsiveness in the website.
 
 
 ### Content 
