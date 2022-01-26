@@ -304,10 +304,6 @@ footer{
     text-align: right;
 }
 
-/* hide overflow caused by margins to avoid horizontal scrolling */
-.commissions, .pricing {
-    overflow: hidden;
-}
 @media (max-width: 576px) {
     /* make divs on info box stretch full width to avoid overflow on smaller screen sizes */
     .find-us div {

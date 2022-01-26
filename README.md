@@ -231,7 +231,7 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 | Footer - contact information section | On any page scroll down to the footer | Find links to social media | Works as expected |
 
 <details><summary>Screenshots</summary>
-
+<img src="docs/user_stories/1_user story.JPG">
 </details>
 
 2. As a new visitor to the website, I want view this artist's gallery, and view their work in detail so I can decide if I want to commission their work.
@@ -241,7 +241,7 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 | Gallery | Navigate to the Gallery page | See various examples of completed work on page | Works as expected |
 
 <details><summary>Screenshots</summary>
-
+<img src="docs/user_stories/2_gallery_userstory.JPG">
 </details>
 
 3. As a new visitor to the website, I want learn more about the artist, so I can feel I connect with him as a person.
@@ -251,7 +251,7 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 | About | Navigate to the About page and locate the About the Artist section | Find description of the artist| Works as expected | 
 
 <details><summary>Screenshots</summary>
-
+<img src="docs/user_stories/3_about-userstory.JPG">
 </details>
 
 4. As a potential client, I want to know what past clients thought of their artwork and the service they received.
@@ -261,7 +261,7 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 | Tesimonial | Navigate to the About page | Find testimonial of previous client | Works as expected |
 
 <details><summary>Screenshots</summary>
-
+<img src="docs/user_stories/4_testimonial_userstories.JPG">
 </details>
 
 5. As a potential client, I want to view expected prices for a portrait, so I can decide if it is within my budget to order.
@@ -271,7 +271,7 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 | Home | On home page scroll down to pricing section | Find the pricing expected as per square inch | Works as expected |
 
 <details><summary>Screenshots</summary>
-
+<img src="docs/user_stories/3_about-userstory.JPG">
 </details>
 
 6. As an interested client, I want to understand the ordering process, so I know what steps to take next.
@@ -281,7 +281,7 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 | Home | On home page scroll down to commissions section | See instructions on how to complete the commission process | Works as expected |
 
 <details><summary>Screenshots</summary>
-
+<img src="docs/user_stories/3_about-userstory.JPG">
 </details>
 
 7. As an interested client, I want an easy to fill in contact form, so I can make contact with the artist and place my order.
@@ -292,7 +292,7 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 
 
 <details><summary>Screenshots</summary>
-
+<img src="docs/user_stories/form_userstory.JPG">
 </details>
 
 8. As an interested observer and/or potential client, I want to follow the artist on social media, so I can keep up with her latest news.
@@ -302,7 +302,7 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 | Footer| Navigate to the footer on all pages | click links that lead to social media sites | Works as expected |
 
 <details><summary>Screenshots</summary>
-
+<img src="docs/user_stories/3_about-userstory.JPG">
 </details>
 
 9. As a returning visitor to the website, who has already decided to contact the artist, I want to be able to find out where the artist is geographically so that I might pick up my commission if required.
@@ -312,7 +312,7 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 | Contact| Navigate to the Contact Page and locate the google map of artists geographical location| view and scroll google map for geographic location| Works as expectd |
 
 <details><summary>Screenshots</summary>
-
+<img src="docs/user_stories/map_userstories.JPG">
 </details>
 
 | **Bug** | **Fix** |
