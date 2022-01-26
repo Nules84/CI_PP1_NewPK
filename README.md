@@ -361,3 +361,4 @@ You will need to mention unfixed bugs and why they were not fixed. This section 
 
 - The text for the website was created by the website author.
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The icon in the tab were also taken from {Favicon](https://favicon.io/)
