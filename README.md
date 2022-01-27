@@ -223,7 +223,8 @@ The website consists of four separate pages:
   - The gallery will provide the user with supporting images to see what Padraics work looks like. 
   - This section is valuable to the user as they will be able to easily identify the types of art Padraic can produce and the quality of product they will receive upon purchase. 
 
-![image](docs/screenshots/ss_gallery.png
+![image](docs/screenshots/ss_gallery.png)
+
 - The gallery page also includes a short video of some of Padraics work. This videos is there to keep people on Padraic Kings website longer and engage them with more content. People work with people, and video helps people get to know, like and trust Padraics quality of work. The video helps to keep the audience interested in the product and service.
 
 ![image](docs/screenshots/ss_vimeo.png)
