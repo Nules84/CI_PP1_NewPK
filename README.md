@@ -37,7 +37,7 @@
     4. [Device testing](#performing-tests-on-various-devices)
     5. [Testing user stories](#testing-user-stories)
 7. [Bugs](#bugs)
-8.  [Deployment](#deployment)
+8. [Deployment](#deployment)
 9. [Credits](#credits)
     1. [Media](#media)
     2. [Acknowledgements](#acknowledgements)
