@@ -301,7 +301,6 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Nav bar | Navigate to the nav bar menu or hamburger menu on smaller screen| 4 options available for user Home, About, Gallery and  | Works as expected |
-| Footer - contact information section | On any page scroll down to the footer | Find links to social media | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user_stories/1_user story.JPG">
