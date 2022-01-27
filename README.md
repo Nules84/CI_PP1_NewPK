@@ -415,19 +415,19 @@ The website was tested successfully on the following devices:
 
 ### Media
 
--All images for the website are owned by the artist and website author, therefore copyrights belong to the site owner.
--The Video in the Gallery page was created using Vimeo video editor and all images used belong to the artist and site owner.
+* All images for the website are owned by the artist and website author, therefore copyrights belong to the site owner.
+* The Video in the Gallery page was created using Vimeo video editor and all images used belong to the artist and site owner.
 
 ### Acknowledgements
 
--I received inspiration for this project from my own experience and from the following websites:
+I received inspiration for this project from my own experience and from the following websites:
 -https://4n4ru.github.io/CI_MS1_BodelschwingherHof/ by Ana Runje
 <br>
 -https://ajgreaves.github.io/portrait-artist/ by AJ Greaves
 <br>
 -https://mattbcoding.github.io/leinster-trophy/index.html by Matt Bodden
-
--My mentor Mo Shami for his expert guidance and totorials. Mo has guided me towards attempting bootstrap in order to create a better user experience and responsiveness in the website.
+<br>
+* My mentor Mo Shami for his expert guidance and totorials. Mo has guided me towards attempting bootstrap in order to create a better user experience and responsiveness in the website.
 
 
 ### Content 
