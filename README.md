@@ -420,14 +420,14 @@ The website was tested successfully on the following devices:
 
 ### Acknowledgements
 
-- I received inspiration for this project from my own experience and from the following websites:
+-I received inspiration for this project from my own experience and from the following websites:
 -https://4n4ru.github.io/CI_MS1_BodelschwingherHof/ by Ana Runje
 <br>
 -https://ajgreaves.github.io/portrait-artist/ by AJ Greaves
 <br>
 -https://mattbcoding.github.io/leinster-trophy/index.html by Matt Bodden
 
-- My mentor Mo Shami for his expert guidance and totorials. Mo has guided me towards attempting bootstrap in order to create a better user experience and responsiveness in the website.
+-My mentor Mo Shami for his expert guidance and totorials. Mo has guided me towards attempting bootstrap in order to create a better user experience and responsiveness in the website.
 
 
 ### Content 
