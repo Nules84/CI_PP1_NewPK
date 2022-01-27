@@ -110,7 +110,7 @@ For the colour sheme warm blue tones were chosen to match the images on the page
 ![color](docs/color_pallett.jpg)
 
 ### Fonts
-Oswald with san-serif as fallback was used for the logo as it is a simple and clear typeface. Simplicity and contemporary design, without embellishment so that it becomes more about the work.
+Oswald with san-serif as fallback was used for the logo as it is a simple and clear typeface. Simplicity and contemporary design, without embellishment is what I am aiming for in this website, so that it becomes more about the artwork.
 <br>
 Oswald with san-serif and Montserrat with san-serif was used for the body and headings as these fonts are simple and clean and also considered dyslexia friendly.
 
