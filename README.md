@@ -114,7 +114,7 @@ Oswald with san-serif as fallback was used for the logo as it is a simple and cl
 Oswald with san-serif and Montserrat with san-serif was used for the body and headings as these fonts are simple and clean and also considered dyslexia friendly.
 
 ### Structure
-The page is structured in a well know, recognizable, user friendly, and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with Padraic Kings name on the left side and the navigation links to the right. 
+The page is structured in a well known, recognizable, user friendly, and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with Padraic Kings name on the left side and the navigation links to the right. 
 The website consists of four separate pages: 
 - A homepage with a sections for Commissions and Pricing
 - An about page with the About the artist, testimonial and news section.
