@@ -342,7 +342,7 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 | Home | On home page scroll down to pricing section | Find the pricing expected as per square inch | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user_stories/3_about-userstory.JPG">
+<img src="docs/user_stories/pricing_userstory.JPG">
 </details>
 
 6. As an interested client, I want to understand the ordering process, so I know what steps to take next.
@@ -352,7 +352,7 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 | Home | On home page scroll down to commissions section | See instructions on how to complete the commission process | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user_stories/3_about-userstory.JPG">
+<img src="docs/user_stories/commissions_userstory.JPG">
 </details>
 
 7. As an interested client, I want an easy to fill in contact form, so I can make contact with the artist and place my order.
@@ -373,7 +373,7 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 | Footer| Navigate to the footer on all pages | click links that lead to social media sites | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user_stories/3_about-userstory.JPG">
+<img src="docs/user_stories/social_userstory.JPG">
 </details>
 
 9. As a returning visitor to the website, who has already decided to contact the artist, I want to be able to find out where the artist is geographically so that I might pick up my commission if required.
