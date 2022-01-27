@@ -9,7 +9,7 @@
 ## Table of Contents
 
 1. [Project Goals](#project-goals)
-2. [UX](#user-experience)
+2. [User Experience](#user-experience)
     1. [Ideal client](#Ideal-client)
     2. [User Requrements and Expectations](#user-requrements-and-expectations)
     3. [User Stories](#user-stories)
@@ -55,9 +55,9 @@ The customer goals of this website are:
    * Clear easy to find pricing.
    *  Intuitive ordering process.
 
-## UX
+## User Experience
 
-###Ideal client
+### Ideal client
 The ideal client for this business is:
 
    - English speaking.
@@ -79,7 +79,7 @@ This project is the best way to help them achieve these things because:
       - Gives the client the information they need without overloading them.
       - Guiding them to the goal of the website - to fill out the contact form.
 
-User stories
+### User stories
 
    - As a new visitor to the website, I want to easily navigate the site, so I can find what I need efficiently.
    - As a new visitor to the website, I want view this artist's gallery, and view their work in detail so I can decide if I want to commission their work.
@@ -104,18 +104,17 @@ For the colour sheme warm blue tones were chosen to match the images on the page
 ![color](https://user-images.githubusercontent.com/95381506/150836380-781b5a3e-9011-4873-b698-ab09038b4691.JPG)
 
 ### Fonts
-Pinyon script with cursive as fallback was used for the logo to match the sign outside the restaurant. 
+Oswald with san-serif as fallback was used for the logo to match the sign outside the restaurant. 
 <br>
-Montserrat was used for the body and Roboto for headings. Both fonts are considered dyslexia friendly.
+Oswald with san-serif and Montserrat with san-serif was used for the body and headings as these fonts are simple and clean and also considered dyslexia friendly.
 
 ### Structure
-The page is structured in a well know, recognizable, user friendly, and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with the restaurant logo on the left side and the navigation links to the right. 
-The website consists of five separate pages: 
-- A homepage with a sections for News and Sunday Meal Offers
-- An about page with the About Us and Meet the Chef
-- A menu page
-- A image gallery with images and video showcasing the general feel of the restaurant
-- A contact page with a contact form, a map and information about the bussines section
+The page is structured in a well know, recognizable, user friendly, and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with Padraic Kings name on the left side and the navigation links to the right. 
+The website consists of four separate pages: 
+- A homepage with a sections for Commissions and Pricing
+- An about page with the About the artist, testimonial and news section.
+- A image gallery with images and video showcasing the artists work.
+- A contact page with a contact form and map of artist geographical location
 
 ### Wireframes
 
@@ -140,6 +139,7 @@ The website consists of five separate pages:
 <img src="docs/wireframes/iphone-contact.jpg">
 <img src="docs/wireframes/web-page-contact.jpg">
 </details>
+
 ## Technologies Used
 
 ### Languages
@@ -159,11 +159,9 @@ The website consists of five separate pages:
 - Font Awsome
 - Favicon<span>.</span>io
 
-
-
 ### Existing Features
 
-- __Navigation Bar__
+### Navigation Bar
 
   - Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
@@ -174,14 +172,14 @@ The website consists of five separate pages:
 
 ![Logo](assets/images/logo.jpg)
 
-- __The landing page image__
+### The landing page image
 
   - The landing includes a photograph with the "Home" button highlighted in a light blue colour to allow the user to see exactly which location this site would be applicable to. 
   - This section introduces the user to Padraic Kings work with an eye catching image to grab their attention
 
 ![image](docs/screenshots/ss_home.JPG)
 
-- __Commission and Pricing Section__
+### Commissions and Pricing Section
 
   - The Commissions and Pricing section will allow the user to see the commission services provided by the artist and how much it would cost for the service. 
   - By making the buying process simple and explicit as possible, this should encourage the user to consider contacting us for their first commission.
@@ -190,16 +188,16 @@ The website consists of five separate pages:
 
 ![image](docs/screenshots/SS_pricing.png)
 
-- __The Footer__ 
+### The Footer
 
   - The footer section includes links to the relevant social media sites for Padraic King. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
-  The footer also includes a coyright section, as the clients own original images are used within the website.
+  - The footer also includes a coyright section, as the clients own original images are used within the website.
 
 ![image](docs/screenshots/ss_socialmedia.JPG)
 ![image](docs/screenshots/ss_copyright.JPG)
 
-- __About__
+### About
 
   - The about section gives the user a more personal connection to the artist and his work, featuring the background experience of the artist, his life and image.
   - Having a personal connection with the artist and the background of his work adds value and personal connection to the work. 
@@ -214,7 +212,7 @@ The website consists of five separate pages:
 
 ![image](docs/screenshots/ss_news.png)
 
-- __Gallery__
+### Gallery
 
   - The gallery will provide the user with supporting images to see what Padraics work looks like. 
   - This section is valuable to the user as they will be able to easily identify the types of art Padraic can produce and the quality of product they will receive upon purchase. 
@@ -225,7 +223,7 @@ The website consists of five separate pages:
 ![image](docs/screenshots/ss_vimeo.png)
 
 
-- __The Contact Page__
+### The Contact Page
 
   - This page will allow the user to get in contact with Padraic and to commence ordering their first commission visa a form submission. The user will be asked to submit their full name and email address. Upon submitting the form we will be able to compile a useful mailing list as a marketing tool to contact our clients in future with new services and products.
 
@@ -246,17 +244,32 @@ In future, I would like to include:
 
 The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
 <details><summary>Home</summary>
-</details>![w3c-html-check-home](https://user-images.githubusercontent.com/95381506/151055938-b2080cc1-2bf4-4ea5-8e35-7284ffc7a410.JPG)
+<img src="docs/w3c html checker/w3c-html-check-home.JPG">
+</details>
 <details><summary>About</summary>
-<img src="docs/validation/validation-html-about.jpg">
+<img src="docs/w3c html checker/w3c-html-check-about.JPG">
 </details>
 <details><summary>Gallery</summary>
-![w3c-html-check-gallery](https://user-images.githubusercontent.com/95381506/151059411-7a8afafa-6d83-4785-a3a0-3f6ddca7e49b.JPG)
+<img src="docs/w3c html checker/w3c-html-check-gallery.JPG">
 </details>
 <details><summary>Contact</summary>
 <img src="docs/validation/validation-html-contact.jpg">
-</details>![w3c-html-check-contact](https://user-images.githubusercontent.com/95381506/151059550-6d9ce1f0-469d-4344-91bd-15c8fe65bcfc.JPG)
-- CSS
+</details>
+
+The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
+When validating the page as a whole, the validator shows some errors linked to Bootstrap v5.0. When validating just my own custom CSS it passes with no errors found and some warnings associated to using root variables.
+<details><summary>Home</summary>
+<img src="docs/wave/wave_home.JPG">
+</details>
+<details><summary>About</summary>
+<img src="docs/wave/wave-about.JPG">
+</details>
+<details><summary>Gallery</summary>
+<img src="docs/wave/wave-gallery.JPG"
+</details>
+<details><summary>Contact</summary>
+<img src="docs/wave/wave-contact.JPG">
+</details>
 
 ### Performance 
 Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
