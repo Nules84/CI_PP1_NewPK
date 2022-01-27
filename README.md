@@ -278,7 +278,7 @@ When validating the page as a whole, the validator shows some errors linked to B
 <img src="docs/wave/wave-contact.JPG">
 </details>
 
-### Accessability
+### Accessibility
 Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
 
 <details><summary>Home</summary>
