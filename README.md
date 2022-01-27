@@ -279,6 +279,7 @@ When validating the page as a whole, the validator shows some errors linked to B
 </details>
 
 ### Accessibility
+
 Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
 
 <details><summary>Home</summary>
