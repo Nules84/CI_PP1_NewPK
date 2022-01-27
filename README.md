@@ -421,6 +421,7 @@ The website was tested successfully on the following devices:
 ### Acknowledgements
 
 I received inspiration for this project from my own experience and from the following websites:
+
  -https://4n4ru.github.io/CI_MS1_BodelschwingherHof/ by Ana Runje
 <br>
  -https://ajgreaves.github.io/portrait-artist/ by AJ Greaves
