@@ -11,7 +11,7 @@
 1. [Project Goals](#project-goals)
     1. [User Goals](#user-goals)
     2. [Site Owner Goals](#site-owner-goals)
-2. [User Experience](#user-experience)
+2. [Design](#user-experience)
     1. [Target Audience](#target-audience)
     2. [User Requrements and Expectations](#user-requrements-and-expectations)
     3. [User Stories](#user-stories)
@@ -69,6 +69,61 @@ For the colour sheme warm blue tones were chosen to match the images on the page
 
 ![color](https://user-images.githubusercontent.com/95381506/150836380-781b5a3e-9011-4873-b698-ab09038b4691.JPG)
 
+### Fonts
+Pinyon script with cursive as fallback was used for the logo to match the sign outside the restaurant. 
+<br>
+Montserrat was used for the body and Roboto for headings. Both fonts are considered dyslexia friendly.
+
+### Structure
+The page is structured in a well know, recognizable, user friendly, and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with the restaurant logo on the left side and the navigation links to the right. 
+The website consists of five separate pages: 
+- A homepage with a sections for News and Sunday Meal Offers
+- An about page with the About Us and Meet the Chef
+- A menu page
+- A image gallery with images and video showcasing the general feel of the restaurant
+- A contact page with a contact form, a map and information about the bussines section
+
+### Wireframes
+
+<details><summary>Home</summary>
+<img src="docs/wireframes/web-page-home.jpg">
+<img src="docs/wireframes/ipad-home.jpg">
+<img src="docs/wireframes/iphone-home.jpg">
+
+</details>
+<details><summary>About</summary>
+<img src="docs/wireframes/iphone-about.jpg">
+<img src="docs/wireframes/ipad-about.jpg">
+<img src="docs/wireframes/web-page-about.jpg">
+</details>
+<details><summary>Gallery</summary>
+<img src="docs/wireframes/iphone-gallery.jpg">
+<img src="docs/wireframes/ipad-gallery.jpg">
+<img src="docs/wireframes/web-page-gallery.jpg">
+</details>
+<details><summary>Contact</summary>
+<img src="docs/wireframes/ipad-contact.jpg">
+<img src="docs/wireframes/iphone-contact.jpg">
+<img src="docs/wireframes/web-page-contact.jpg">
+</details>
+## Technologies Used
+
+### Languages
+- HTML
+- CSS
+
+### Frameworks & Tools
+- Bootstrap v5.0
+- Git
+- GitHub
+- Gitpod
+- Tinypng
+- Paint<span>.</span>NET
+- Balsamiq
+- Google Fonts
+- Adobe Color
+- Font Awsome
+- Favicon<span>.</span>io
 
 ## UX
 
