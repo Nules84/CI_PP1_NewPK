@@ -34,7 +34,7 @@
     1. [HTML Validation](#html-validation)
     2. [CSS Validation](#css-validation)
     3. [Accessibility](#accessibility)
-    4. [Device testing](#performing-tests-on-various-devices)
+    4. [Device testing](#device-testing)
     5. [Testing user stories](#testing-user-stories)
 7. [Bugs](#bugs)
 8. [Deployment](#deployment)
@@ -397,7 +397,7 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 | Email overflows on xs screen size | Add a media query that makes the divs spread to 100% width on xs sreens to froce the content onto a seperate line |
 | When viewed on tablets, the contact page has whitespace after the footer | Set min-height for body to 100vh |
 
-### Performing tests on various devices 
+### Device Testing
 The website was tested successfully on the following devices:
 - Asus laptop 12" monitor
 - HP 17" Desktop monitor
