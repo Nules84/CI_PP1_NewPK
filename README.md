@@ -305,7 +305,7 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 | About | Navigate to the About page and locate the About the Artist section | Find description of the artist| Works as expected | 
 
 <details><summary>Screenshots</summary>
-<img src="docs/user_stories/3_about-userstory.JPG">
+<img src="docs/user_stories/ss_aboutartist.JPG">
 </details>
 
 4. As a potential client, I want to know what past clients thought of their artwork and the service they received.
