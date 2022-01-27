@@ -272,7 +272,7 @@ When validating the page as a whole, the validator shows some errors linked to B
 <img src="docs/wave/wave-about.JPG">
 </details>
 <details><summary>Gallery</summary>
-<img src="docs/wave/wave-gallery.JPG"
+<img src="docs/wave/wave-gallery.JPG">
 </details>
 <details><summary>Contact</summary>
 <img src="docs/wave/wave-contact.JPG">
