@@ -106,7 +106,6 @@ The webpage was designed with the feeling a customer might get when purchasing a
 ### Colour
 For the colour sheme warm blue tones were chosen to match the images on the page and also the colour theme of the sea side where Padraic grew up. To narrow down the colours I used Adobe Color. After deciding on the colour I tested them on WebAIM to make sure the contrast between them was right.
 <br>
-
 ![color](docs/color_pallett.jpg)
 
 ### Fonts
@@ -229,12 +228,11 @@ The website consists of four separate pages:
 
 ![image](docs/screenshots/ss_vimeo.png)
 
-
 ### The Contact Page
 
   - This page will allow the user to get in contact with Padraic and to commence ordering their first commission visa a form submission. The user will be asked to submit their full name and email address. Upon submitting the form we will be able to compile a useful mailing list as a marketing tool to contact our clients in future with new services and products.
 
-![image](docs/screenshots/ss_contactus.png)
+![image](docs/screenshots/ss_contactus.jpg)
 
 I have included a google map of the Artists geographic location, should clients in the area wish to know the locality of the studio. I have purposefully made the artists specific address and location vague, as the artist has requested that his personal details and home address remain anonymous. 
 
