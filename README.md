@@ -101,8 +101,7 @@ This project is the best way to help them achieve these things because:
 ## Design
 
 ### Design Choices
-The webpage was designed with the feeling a customer might get while dining at the restaurant. It is calm, warm and inviting. 
-Some of the imagery on the page has a round shape with a border to resemble food served on a plate.
+The webpage was designed with the feeling a customer might get when purchasing an original painting from the artist Padraic King. The rich tones in the paintings are accentuated by the blue colour palette chosen for the website. The images are the selling point, so they are up front and centre.
 
 ### Colour
 For the colour sheme warm blue tones were chosen to match the images on the page and also the colour theme of the sea side where Padraic grew up. To narrow down the colours I used Adobe Color. After deciding on the colour I tested them on WebAIM to make sure the contrast between them was right.
@@ -111,7 +110,7 @@ For the colour sheme warm blue tones were chosen to match the images on the page
 ![color](docs/color_pallett.jpg)
 
 ### Fonts
-Oswald with san-serif as fallback was used for the logo to match the sign outside the restaurant. 
+Oswald with san-serif as fallback was used for the logo as it is a simple and clear typeface. Simplicity and contemporary design, without embellishment so that it becomes more about the work.
 <br>
 Oswald with san-serif and Montserrat with san-serif was used for the body and headings as these fonts are simple and clean and also considered dyslexia friendly.
 
