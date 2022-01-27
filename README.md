@@ -10,9 +10,8 @@
 
 1. [Project Goals](#project-goals)
 2. [User Experience](#user-experience)
-    1. [Ideal client](#Ideal-client)
-    2. [User Requrements and Expectations](#user-requrements-and-expectations)
-    3. [User Stories](#user-stories)
+    1. [Ideal client](#ideal-client)
+    2. [User Stories](#user-stories)
 3. [Design](#design)
     1. [Design Choices](#design-choices)
     2. [Colour](#colours)
@@ -22,19 +21,27 @@
 4. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
     2. [Frameworks & Tools](#frameworks-&-tools)
-5. [Features](#features)
+5. [Existing Features](#existing-features)
+    1. [Navigation Bar](#navigation-bar)
+    2. [The Landing Page Image](#the-landing-page)
+    3. [Commissions and Pricing Section](#commissions-and-pricing-section)
+    4. [The Footer](#the-footer)
+    5. [About](#about)
+    6. [Gallery](#gallery)
+    7. [The Contact Page](#the-contact-page)
+    8. [Features Left to Implement](#features-left-to-implement)
 6. [Testing](#validation)
     1. [HTML Validation](#HTML-validation)
     2. [CSS Validation](#CSS-validation)
     3. [Accessibility](#accessibility)
-    4. [Performance](#performance)
     5. [Device testing](#performing-tests-on-various-devices)
-    6. [Browser compatibility](#browser-compatability)
     7. [Testing user stories](#testing-user-stories)
 8. [Bugs](#Bugs)
-9. [Deployment](#deployment)
+9.  [Deployment](#deployment)
 10. [Credits](#credits)
-11. [Acknowledgements](#acknowledgements)
+    1. [Media](#media)
+    2. [Acknowledgements](#acknowledgements)
+    3. [Content](#content)
 
 ## Project Goals 
 
@@ -101,7 +108,7 @@ Some of the imagery on the page has a round shape with a border to resemble food
 For the colour sheme warm blue tones were chosen to match the images on the page and also the colour theme of the sea side where Padraic grew up. To narrow down the colours I used Adobe Color. After deciding on the colour I tested them on WebAIM to make sure the contrast between them was right.
 <br>
 
-![color](https://user-images.githubusercontent.com/95381506/150836380-781b5a3e-9011-4873-b698-ab09038b4691.JPG)
+![color](docs/color_pallett.jpg)
 
 ### Fonts
 Oswald with san-serif as fallback was used for the logo to match the sign outside the restaurant. 
@@ -240,8 +247,7 @@ In future, I would like to include:
 
 ## Testing 
 
-### Validator Testing 
-
+### HTML Validation
 The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
 <details><summary>Home</summary>
 <img src="docs/w3c html checker/w3c-html-check-home.JPG">
@@ -256,6 +262,7 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 <img src="docs/validation/validation-html-contact.jpg">
 </details>
 
+### CSS Validation
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
 When validating the page as a whole, the validator shows some errors linked to Bootstrap v5.0. When validating just my own custom CSS it passes with no errors found and some warnings associated to using root variables.
 <details><summary>Home</summary>
@@ -271,24 +278,22 @@ When validating the page as a whole, the validator shows some errors linked to B
 <img src="docs/wave/wave-contact.JPG">
 </details>
 
-### Performance 
+### Accessability
 Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
 
 <details><summary>Home</summary>
-<img src="docs/validation/lighthouse-performance-index.jpg">
+<img src="docs/lighthouse/home-accessability-lighthouse.JPG">
 </details>
 <details><summary>About</summary>
-<img src="docs/validation/lighthouse-performance-about.jpg">
-</details>
-<details><summary>Menu</summary>
-<img src="docs/validation/lighthouse-performance-menu.jpg">
+<img src="docs/lighthouse/about-accessability.JPG">
 </details>
 <details><summary>Gallery</summary>
-<img src="docs/validation/lighthouse-performance-gallery.jpg">
+<img src="docs/lighthouse/gallery-accessability.JPG">
 </details>
 <details><summary>Contact</summary>
-<img src="docs/validation/lighthouse-performance-contact.jpg">
+<img src="docs/lighthouse/contact-accessability.JPG">
 </details>
+
 ### Testing user stories
 
 1. As a new visitor to the website, I want to easily navigate the site, so I can find what I need efficiently.
@@ -383,6 +388,8 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 <img src="docs/user_stories/map_userstories.JPG">
 </details>
 
+## Bugs
+
 | **Bug** | **Fix** |
 | ----------- | ----------- |
 | Overflow appears when viewed on smaller devices | applying the overflow-x:hidden to the wrapper instead of the <body> or <html> fixed the issue |
@@ -391,14 +398,13 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 | When viewed on tablets, the contact page has whitespace after the footer | Set min-height for body to 100vh |
 
 ### Performing tests on various devices 
-The website was tested on the following devices:
-- Lenovo Yoga 2 Pro (both in pc and tablet mode)
-- Honor 20 pro
-- Xiaomi Redmi Note 7
-  
-### Unfixed Bugs
+The website was tested successfully on the following devices:
+- Asus laptop 12" monitor
+- HP 17" Desktop monitor
+- Samsung Gallaxy s5 mini phone
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+- In addition, the website was tested using Google Chrome Developer Tools Device Toggeling option for all available device options.
+  
 
 ## Deployment
 
@@ -421,7 +427,7 @@ You will need to mention unfixed bugs and why they were not fixed. This section 
 -https://ajgreaves.github.io/portrait-artist/ by AJ Greaves
 -https://mattbcoding.github.io/leinster-trophy/index.html by Matt Bodden
 
-- My mentor Mo Shami for his expert guidance and teaching. Mo has guided me towards attempting bootstrap in order to create a better user experience and responsiveness in the website.
+- My mentor Mo Shami for his expert guidance and totorials. Mo has guided me towards attempting bootstrap in order to create a better user experience and responsiveness in the website.
 
 
 ### Content 
